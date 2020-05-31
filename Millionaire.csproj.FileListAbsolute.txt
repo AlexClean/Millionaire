@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Millionaire\Millionaire\bin\Release\Millionaire.exe.config
+C:\Users\USER\source\repos\Millionaire\Millionaire\bin\Release\Millionaire.exe
+C:\Users\USER\source\repos\Millionaire\Millionaire\bin\Release\Millionaire.pdb
+C:\Users\USER\source\repos\Millionaire\Millionaire\obj\Release\Millionaire.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Millionaire\Millionaire\obj\Release\Millionaire.Add_Question.resources
+C:\Users\USER\source\repos\Millionaire\Millionaire\obj\Release\Millionaire.Delete_Question.resources
+C:\Users\USER\source\repos\Millionaire\Millionaire\obj\Release\Millionaire.Edit_Question.resources
+C:\Users\USER\source\repos\Millionaire\Millionaire\obj\Release\Millionaire.Millionaire.resources
+C:\Users\USER\source\repos\Millionaire\Millionaire\obj\Release\Millionaire.Properties.Resources.resources
+C:\Users\USER\source\repos\Millionaire\Millionaire\obj\Release\Millionaire.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Millionaire\Millionaire\obj\Release\Millionaire.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Millionaire\Millionaire\obj\Release\Millionaire.exe
+C:\Users\USER\source\repos\Millionaire\Millionaire\obj\Release\Millionaire.pdb
